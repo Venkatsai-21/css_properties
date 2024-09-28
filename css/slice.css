@@ -1,0 +1,15 @@
+*{
+    /* background-image: linear-gradient(to right top, #5385fc, #5299ff, #5eabff, #73bcff, #8eccfc); */
+    padding: 0;
+    margin: 0;
+}
+
+svg
+{
+    width: 82px;
+    height: 30px;
+    padding: 30px;
+}
+div{
+     background-image: linear-gradient(to right top, #5385fc, #5299ff, #5eabff, #73bcff, #8eccfc);
+}
